@@ -1,0 +1,17 @@
+To change colors, replace the default text in both the userChrome.css and userContent.css files. for normal browsing colors, replace lines 5-10 in both files. for private browsing colors, replace lines 18-23.
+
+Dark Mode(Normal Browsing Colors):
+	--95grey:#3b3b3b;
+	--home-bground:#3b3b3b;
+	--3d-darkest:#000000;
+	--3d-dark:#272727;
+	--3d-light:#4c4c4c;
+	--3d-lightest:#9d9d9d;
+
+Dark Mode(Private Browsing Colors):
+	--pb95grey:#3b3b3b;
+	--pb-home-bground:#3b3b3b;
+	--pb-3d-darkest:#000000;
+	--pb-3d-dark:#272727;
+	--pb-3d-light:#4c4c4c;
+	--pb-3d-lightest:#9d9d9d;
